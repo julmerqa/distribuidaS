@@ -1,0 +1,6 @@
+com\example\mscatalog\service\impl\CategoryServiceImpl.class
+com\example\mscatalog\entity\Category.class
+com\example\mscatalog\controller\CategoryController.class
+com\example\mscatalog\repository\CategoryRepository.class
+com\example\mscatalog\MsCatalogApplication.class
+com\example\mscatalog\service\CategoryService.class
